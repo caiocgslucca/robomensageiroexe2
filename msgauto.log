@@ -1,0 +1,177 @@
+[2025-11-03 20:28:40] [autosync] Falha ao reimportar Ind1 → C:\Users\caio.silveira\Desktop\Projetos\Projeto Mensageiro\uploads_msg\folder_20251103_202815_deb745: [WinError 3] O sistema não pode encontrar o caminho especificado: 'Ind1'
+[2025-11-03 20:28:40] [run] Só mensagem avulsa (sem anexos).
+[2025-11-03 20:29:42] [wa] WhatsApp carregado / ou QR pronto
+[2025-11-03 20:29:52] [chat] Aberto chat por número: +5511931451242
+[2025-11-03 20:29:57] [run] Erro: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=142.0.7444.60)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6258c3
+	0x625904
+	0x43e76d
+	0x4c442d
+	0x484a6b
+	0x484004
+	0x4ac96c
+	0x47f854
+	0x4acb24
+	0x4ceea6
+	0x4ac766
+	0x47dac0
+	0x47ede4
+	0x8a7974
+	0x8a2bea
+	0x64e5b4
+	0x63dd28
+	0x644d8d
+	0x62ded8
+	0x62e09c
+	0x617d1a
+	0x75bf5d49
+	0x77e7d6db
+	0x77e7d661
+
+[2025-11-03 20:30:15] [autosync] Falha ao reimportar Ind1 → C:\Users\caio.silveira\Desktop\Projetos\Projeto Mensageiro\uploads_msg\folder_20251103_202815_deb745: [WinError 3] O sistema não pode encontrar o caminho especificado: 'Ind1'
+[2025-11-03 20:30:15] [run] Só mensagem avulsa (sem anexos).
+[2025-11-03 20:30:32] [wa] WhatsApp carregado / ou QR pronto
+[2025-11-03 20:30:38] [chat] Aberto chat por número: +5511931451242
+[2025-11-03 20:30:43] [run] Erro: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=142.0.7444.60)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x6258c3
+	0x625904
+	0x43e76d
+	0x4c442d
+	0x484a6b
+	0x484004
+	0x4ac96c
+	0x47f854
+	0x4acb24
+	0x4ceea6
+	0x4ac766
+	0x47dac0
+	0x47ede4
+	0x8a7974
+	0x8a2bea
+	0x64e5b4
+	0x63dd28
+	0x644d8d
+	0x62ded8
+	0x62e09c
+	0x617d1a
+	0x75bf5d49
+	0x77e7d6db
+	0x77e7d661
+
+[2025-11-03 20:44:48] [autosync] Falha ao reimportar Ind1 → C:\Users\caio.silveira\Desktop\Projetos\Projeto Mensageiro\uploads_msg\folder_20251103_202815_deb745: [WinError 3] O sistema não pode encontrar o caminho especificado: 'Ind1'
+[2025-11-03 20:44:48] [run] Só mensagem avulsa (sem anexos).
+[2025-11-03 20:45:05] [wa] WhatsApp carregado / ou QR pronto
+[2025-11-03 20:45:15] [chat] Aberto chat por número: +5511931451242
+[2025-11-03 20:45:16] [texto] Mensagem enviada no composer.
+[2025-11-03 20:49:15] [autosync] Falha ao reimportar Ind1 → C:\Users\caio.silveira\Desktop\Projetos\Projeto Mensageiro\uploads_msg\folder_20251103_202815_deb745: [WinError 3] O sistema não pode encontrar o caminho especificado: 'Ind1'
+[2025-11-03 20:49:15] [run] Nenhum anexo válido encontrado. Verifique caminho dos arquivos/pastas.
+[2025-11-03 20:49:41] [wa] WhatsApp carregado / ou QR pronto
+[2025-11-03 20:49:48] [chat] Aberto chat por número: +5511931451242
+[2025-11-03 20:49:52] [texto] Mensagem enviada no composer.
+[2025-11-03 20:57:03] [autosync] Falha ao reimportar Ind1 → C:\Users\caio.silveira\Desktop\Projetos\Projeto Mensageiro\uploads_msg\folder_20251103_202815_deb745: [WinError 3] O sistema não pode encontrar o caminho especificado: 'Ind1'
+[2025-11-03 20:57:03] [plan] Ignorando pasta inexistente: C:\Users\caio.silveira\Desktop\Projetos\Projeto Mensageiro\uploads_msg\folder_20251103_202815_deb745
+[2025-11-03 20:57:03] [run] Nenhum anexo válido encontrado. Enviarei apenas a mensagem avulsa.
+[2025-11-03 20:57:28] [wa] WhatsApp carregado / ou QR pronto
+[2025-11-03 20:57:34] [chat] Aberto chat por número: +5511931451242
+[2025-11-03 20:57:38] [texto] Mensagem enviada no composer.
+[2025-11-03 21:07:48] [autosync] Falha ao reimportar Ind1 → C:\Users\caio.silveira\Desktop\Projetos\Projeto Mensageiro\uploads_msg\folder_20251103_202815_deb745: [WinError 3] O sistema não pode encontrar o caminho especificado: 'Ind1'
+[2025-11-03 21:07:48] [plan] Ignorando pasta inexistente: C:\Users\caio.silveira\Desktop\Projetos\Projeto Mensageiro\uploads_msg\folder_20251103_202815_deb745
+[2025-11-03 21:07:48] [run] Nenhum anexo válido encontrado. Enviarei apenas a mensagem avulsa.
+[2025-11-03 21:08:11] [wa] WhatsApp carregado / ou QR pronto
+[2025-11-03 21:08:17] [chat] Aberto chat por número: +5511931451242
+[2025-11-03 21:08:19] [texto] Mensagem enviada no composer (JS).
+[2025-11-03 21:12:42] [autosync] Falha ao reimportar Ind1 → C:\Users\caio.silveira\Desktop\Projetos\Projeto Mensageiro\uploads_msg\folder_20251103_202815_deb745: [WinError 3] O sistema não pode encontrar o caminho especificado: 'Ind1'
+[2025-11-03 21:12:42] [plan] Ignorando pasta inexistente: C:\Users\caio.silveira\Desktop\Projetos\Projeto Mensageiro\uploads_msg\folder_20251103_202815_deb745
+[2025-11-03 21:12:42] [run] Nenhum anexo válido encontrado. Enviarei apenas a mensagem avulsa.
+[2025-11-03 21:13:05] [wa] WhatsApp carregado / ou QR pronto
+[2025-11-03 21:13:11] [chat] Aberto chat por número: +5511931451242
+[2025-11-03 21:13:14] [texto] Mensagem enviada no composer (JS).
+[2025-11-03 21:13:41] [autosync] Falha ao reimportar Ind1 → C:\Users\caio.silveira\Desktop\Projetos\Projeto Mensageiro\uploads_msg\folder_20251103_202815_deb745: [WinError 3] O sistema não pode encontrar o caminho especificado: 'Ind1'
+[2025-11-03 21:13:41] [plan] Ignorando pasta inexistente: C:\Users\caio.silveira\Desktop\Projetos\Projeto Mensageiro\uploads_msg\folder_20251103_202815_deb745
+[2025-11-03 21:13:42] [run] Nenhum anexo válido encontrado. Enviarei apenas a mensagem avulsa.
+[2025-11-03 21:14:07] [wa] WhatsApp carregado / ou QR pronto
+[2025-11-03 21:14:14] [chat] Aberto chat por número: +5511931451242
+[2025-11-03 21:14:17] [texto] Mensagem enviada no composer (JS).
+[2025-11-03 21:35:27] [autosync] Falha ao reimportar Ind1 → C:\Users\caio.silveira\Desktop\Projetos\Projeto Mensageiro\uploads_msg\folder_20251103_202815_deb745: [WinError 3] O sistema não pode encontrar o caminho especificado: 'Ind1'
+[2025-11-03 21:35:27] [run] Só mensagem avulsa (sem anexos).
+[2025-11-03 21:35:47] [wa] WhatsApp carregado / ou QR pronto
+[2025-11-03 21:35:52] [chat] Aberto chat por número: +5511931451242
+[2025-11-03 21:35:52] [texto] Mensagem enviada no composer (JS).
+[2025-11-03 21:55:20] [wa] WhatsApp carregado / ou QR pronto
+[2025-11-03 21:55:31] [texto] Mensagem enviada no composer (confirmado).
+[2025-11-03 22:11:59] [autosync] Falha ao reimportar Ind1 → C:\Users\caio.silveira\Desktop\Projetos\Projeto Mensageiro\uploads_msg\folder_20251103_202815_deb745: [WinError 3] O sistema não pode encontrar o caminho especificado: 'Ind1'
+[2025-11-03 22:11:59] [run] Só mensagem avulsa (sem anexos).
+[2025-11-03 22:12:33] [wa] WhatsApp carregado / ou QR pronto
+[2025-11-03 22:12:38] [chat] Aberto chat por número: +5511931451242
+[2025-11-03 22:12:38] [texto] Mensagem enviada no composer (JS).
+[2025-11-03 22:15:44] [autosync] Falha ao reimportar Ind1 → C:\Users\caio.silveira\Desktop\Projetos\Projeto Mensageiro\uploads_msg\folder_20251103_202815_deb745: [WinError 3] O sistema não pode encontrar o caminho especificado: 'Ind1'
+[2025-11-03 22:15:44] [run] Só mensagem avulsa (sem anexos).
+[2025-11-03 22:15:56] [wa] WhatsApp carregado / ou QR pronto
+[2025-11-03 22:16:00] [chat] Aberto chat por número: +5511931451242
+[2025-11-03 22:16:00] [texto] Mensagem enviada no composer (JS).
+[2025-11-03 22:18:19] [autosync] Falha ao reimportar Ind1 → C:\Users\caio.silveira\Desktop\Projetos\Projeto Mensageiro\uploads_msg\folder_20251103_202815_deb745: [WinError 3] O sistema não pode encontrar o caminho especificado: 'Ind1'
+[2025-11-03 22:18:19] [run] Só mensagem avulsa (sem anexos).
+[2025-11-03 22:18:32] [wa] WhatsApp carregado / ou QR pronto
+[2025-11-03 22:18:36] [chat] Aberto chat por número: +5511931451242
+[2025-11-03 22:18:37] [texto] Mensagem enviada com sucesso (p.copyable-text).
+[2025-11-03 22:18:58] [autosync] Falha ao reimportar Ind1 → C:\Users\caio.silveira\Desktop\Projetos\Projeto Mensageiro\uploads_msg\folder_20251103_202815_deb745: [WinError 3] O sistema não pode encontrar o caminho especificado: 'Ind1'
+[2025-11-03 22:18:58] [run] Só mensagem avulsa (sem anexos).
+[2025-11-03 22:19:14] [wa] WhatsApp carregado / ou QR pronto
+[2025-11-03 22:19:19] [chat] Aberto chat por número: +5511931451242
+[2025-11-03 22:19:21] [texto] Mensagem enviada com sucesso (p.copyable-text).
+[2025-11-03 22:20:45] [autosync] Falha ao reimportar Ind1 → C:\Users\caio.silveira\Desktop\Projetos\Projeto Mensageiro\uploads_msg\folder_20251103_202815_deb745: [WinError 3] O sistema não pode encontrar o caminho especificado: 'Ind1'
+[2025-11-03 22:20:45] [run] Só mensagem avulsa (sem anexos).
+[2025-11-03 22:20:58] [wa] WhatsApp carregado / ou QR pronto
+[2025-11-03 22:21:03] [chat] Aberto chat por número: +5511931451242
+[2025-11-03 22:21:05] [texto] Mensagem enviada (ActionChains no <p> real).
+[2025-11-03 22:26:27] [autosync] Falha ao reimportar Ind1 → C:\Users\caio.silveira\Desktop\Projetos\Projeto Mensageiro\uploads_msg\folder_20251103_202815_deb745: [WinError 3] O sistema não pode encontrar o caminho especificado: 'Ind1'
+[2025-11-03 22:26:27] [run] Só mensagem avulsa (sem anexos).
+[2025-11-03 22:26:39] [wa] WhatsApp carregado / ou QR pronto
+[2025-11-03 22:26:44] [chat] Aberto chat por número: +5511931451242
+[2025-11-03 22:26:45] [texto] Mensagem enviada (ENTER fallback).
+[2025-11-03 22:28:37] [autosync] Falha ao reimportar Ind1 → C:\Users\caio.silveira\Desktop\Projetos\Projeto Mensageiro\uploads_msg\folder_20251103_202815_deb745: [WinError 3] O sistema não pode encontrar o caminho especificado: 'Ind1'
+[2025-11-03 22:28:37] [run] Só mensagem avulsa (sem anexos).
+[2025-11-03 22:28:50] [wa] WhatsApp carregado / ou QR pronto
+[2025-11-03 22:28:54] [chat] Aberto chat por número: +5511931451242
+[2025-11-03 22:28:54] [texto] Mensagem enviada (click JS no botão ENVIAR loop).
+[2025-11-03 22:40:03] [autosync] Falha ao reimportar Ind1 → C:\Users\caio.silveira\Desktop\Projetos\Projeto Mensageiro\uploads_msg\folder_20251103_202815_deb745: [WinError 3] O sistema não pode encontrar o caminho especificado: 'Ind1'
+[2025-11-03 22:40:03] [run] Só mensagem avulsa (sem anexos).
+[2025-11-03 22:40:16] [wa] WhatsApp carregado / ou QR pronto
+[2025-11-03 22:40:21] [chat] Aberto chat por número: +5511931451242
+[2025-11-03 22:40:21] [texto] Mensagem enviada (Lexical beforeinput + click ENVIAR).
+[2025-11-03 22:48:52] [autosync] Falha ao reimportar Ind1 → C:\Users\caio.silveira\Desktop\Projetos\Projeto Mensageiro\uploads_msg\folder_20251103_202815_deb745: [WinError 3] O sistema não pode encontrar o caminho especificado: 'Ind1'
+[2025-11-03 22:48:52] [run] Só mensagem avulsa (sem anexos).
+[2025-11-03 22:49:04] [wa] WhatsApp carregado / ou QR pronto
+[2025-11-03 22:49:09] [chat] Aberto chat por número: +5511931451242
+[2025-11-03 22:49:41] [texto] Mensagem enviada (ENTER no editable via JS).
+[2025-11-03 23:01:36] [autosync] Falha ao reimportar Ind1 → C:\Users\caio.silveira\Desktop\Projetos\Projeto Mensageiro\uploads_msg\folder_20251103_202815_deb745: [WinError 3] O sistema não pode encontrar o caminho especificado: 'Ind1'
+[2025-11-03 23:01:36] [run] Só mensagem avulsa (sem anexos).
+[2025-11-03 23:01:49] [wa] WhatsApp carregado / ou QR pronto
+[2025-11-03 23:01:53] [chat] Aberto chat por número: +5511931451242
+[2025-11-03 23:02:12] [texto] Mensagem enviada (botão verde).
+[2025-11-03 23:07:59] [autosync] Falha ao reimportar Ind1 → C:\Users\caio.silveira\Desktop\Projetos\Projeto Mensageiro\uploads_msg\folder_20251103_202815_deb745: [WinError 3] O sistema não pode encontrar o caminho especificado: 'Ind1'
+[2025-11-03 23:07:59] [run] Só mensagem avulsa (sem anexos).
+[2025-11-03 23:08:11] [wa] WhatsApp carregado / ou QR pronto
+[2025-11-03 23:08:15] [chat] Aberto chat por número: +5511931451242
+[2025-11-03 23:08:35] [texto] Mensagem enviada (botão verde).
+[2025-11-03 23:31:57] [autosync] Falha ao reimportar Ind1 → C:\Users\caio.silveira\Desktop\Projetos\Projeto Mensageiro\uploads_msg\folder_20251103_202815_deb745: [WinError 3] O sistema não pode encontrar o caminho especificado: 'Ind1'
+[2025-11-03 23:31:57] [run] Só mensagem avulsa (sem anexos).
+[2025-11-03 23:32:10] [wa] WhatsApp carregado / ou QR pronto
+[2025-11-03 23:32:15] [chat] Aberto chat por número: +5511931451242
+[2025-11-03 23:32:35] [texto] Mensagem enviada (botão verde).
+[2025-11-03 23:38:03] [autosync] Falha ao reimportar: [WinError 3] O sistema não pode encontrar o caminho especificado: 'Ind1'
+[2025-11-03 23:38:03] [run] Só mensagem avulsa (sem anexos).
+[2025-11-03 23:38:16] [wa] WhatsApp carregado / QR pronto
+[2025-11-03 23:38:20] [chat] Aberto chat por número: +5511931451242
+[2025-11-03 23:38:40] [texto] Mensagem enviada.
+[2025-11-03 23:49:09] [autosync] Falha ao reimportar: [WinError 3] O sistema não pode encontrar o caminho especificado: 'Ind1'
+[2025-11-03 23:49:09] [run] Só mensagem avulsa (sem anexos).
+[2025-11-03 23:49:22] [wa] WhatsApp carregado / QR pronto
+[2025-11-03 23:49:27] [chat] Aberto chat por número: +5511931451242
+[2025-11-03 23:49:48] [texto] Mensagem enviada.

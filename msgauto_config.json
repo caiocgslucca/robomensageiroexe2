@@ -1,0 +1,66 @@
+{
+  "enabled": false,
+  "use_24h": true,
+  "start_time": "08:00",
+  "end_time": "22:00",
+  "weekdays": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "frequency_minutes": 5,
+  "message_text": "*Msg automatica*\r\n\r\nOlá,\r\nCaio enviar carteira e produtividade no grupo\r\n\r\n🚀📊*Atualizações*📊🚀",
+  "numbers": [
+    "+5511931451242"
+  ],
+  "groups": [
+    "Teste Robo Mensageiro"
+  ],
+  "attachments": [],
+  "attachments_mode": "files",
+  "attachments_folder": "",
+  "file_captions": {},
+  "custom_items": [
+    {
+      "id": "b171b669440d4a87b7079e8213b4a108",
+      "type": "folder",
+      "path": "C:\\Users\\caio.silveira\\Desktop\\Projetos\\Projeto Mensageiro\\uploads_msg\\folder_20251109_130657_367258",
+      "text": "Indicador 1",
+      "interval": 2,
+      "origin": "C:/Users/caio.silveira/Desktop/Ind1",
+      "autosync": true
+    },
+    {
+      "id": "25d899f818eb46e9a8f7ddc72169fef1",
+      "type": "folder",
+      "path": "C:\\Users\\caio.silveira\\Desktop\\Projetos\\Projeto Mensageiro\\uploads_msg\\folder_20251109_130733_335249",
+      "text": "Indicador 2",
+      "interval": 2,
+      "origin": "C:/Users/caio.silveira/Desktop/Ind2",
+      "autosync": true
+    }
+  ],
+  "item_states": {
+    "b171b669440d4a87b7079e8213b4a108": {
+      "last_sent": "2025-11-09 22:44:00",
+      "next_due": "2025-11-09 22:46:00",
+      "anchor": "2025-11-09 22:39:35"
+    },
+    "25d899f818eb46e9a8f7ddc72169fef1": {
+      "last_sent": "2025-11-09 22:44:16",
+      "anchor": "2025-11-09 22:39:35",
+      "next_due": "2025-11-09 22:46:16"
+    }
+  },
+  "close_after_send": true,
+  "last_run": "2025-11-15 20:57:20",
+  "run_mode": "visible",
+  "general_folder_origin": "",
+  "general_folder_autosync": false,
+  "enabled_at": "2025-11-09 22:39:35",
+  "next_global_due": "2025-11-09 22:44:35",
+  "global_anchor": "2025-11-09 22:39:35",
+  "file_captions_lines": ""
+}
